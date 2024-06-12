@@ -16,7 +16,7 @@ const nav = [
     text: "进阶知识",
     items: [
       {
-        text: "一.h5",
+        text: "一.css3",
         link: "/2.advanced/1.h5/1.index",
       },
     ],
