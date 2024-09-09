@@ -4,11 +4,11 @@ const nav = [
     items: [
       {
         text: "一.css基础",
-        link: "/1.base/1.html/1.index",
+        link: "/base/1.css/1.index",
       },
       {
-        text: "二.css",
-        link: "/1.base/2.css/1.index",
+        text: "二.css案例",
+        link: "/base/2.example/1.index",
       },
     ],
   },
@@ -16,8 +16,8 @@ const nav = [
     text: "进阶知识",
     items: [
       {
-        text: "一.css3",
-        link: "/2.advanced/1.h5/1.index",
+        text: "一.css3基础",
+        link: "/advanced/1.h5/1.index",
       },
     ],
   },

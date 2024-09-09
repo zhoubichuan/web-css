@@ -3,7 +3,7 @@ lang: zh-CN
 home: true
 heroImage: ./home.png
 actionText: 先睹为快 →
-actionLink: /base/1.html/1.index.html
+actionLink: /base/1.css/1.index.html
 pageClass: page_index
 footer: html css相关知识
 meta:
