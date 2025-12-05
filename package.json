@@ -18,6 +18,7 @@
     "dll": "webpack -p --progress --config ./src/.vuepress/webpack.dll.conf.js",
     "build:js": "node rollup.js",
     "build:css": "npx gulp sass",
+    "scp:prod": "scp -r ./web-css/* root@zhoubichuan.com:/usr/src/zhoubichuan/prod/web-css",
     "build:all": "npm run build:js && npm run build:css"
   },
   "devDependencies": {
